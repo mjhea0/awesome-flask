@@ -1,5 +1,6 @@
 <div align="center">
-  <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a>
+  <a href="https://github.com/sindresorhus/awesome#readme"><img src="https://awesome.re/badge-flat.svg" /></a>
+  <a href="https://travis-ci.org/mjhea0/awesome-flask"><img src="https://api.travis-ci.org/mjhea0/awesome-flask.svg?branch=master" alt="Build Status" /></a></p>
   <br /><br />
   <img width="400" src="flask-logo.svg" alt="Flask logo">
 </div>
@@ -138,7 +139,7 @@
 
 #### Testing
 
-- [Flask-Testing](https://pythonhosted.org/Flask-Testing) - Unittest extensions
+- [Flask-Testing](https://pythonhosted.org/Flask-Testing/) - Unittest extensions
 - [Pytest-Flask](https://github.com/pytest-dev/pytest-flask) - Pytest support for testing Flask applications
 
 ### Email
@@ -212,7 +213,7 @@
 - [PyCon US](https://us.pycon.org/2019/)
 - [PyCon Australia](https://2019.pycon-au.org/)
 - [Euro Python](https://ep2019.europython.eu/)
-- [Complete listing of all PyCons globally](https://www.pycon.org/)
+- [Complete listing of all PyCons globally](https://pycon.org/)
 
 #### Conference Videos from PyVideo.org
 
@@ -231,7 +232,7 @@
 ### Podcasts
 
 - [TalkPython](https://talkpython.fm/) - The leading Python podcast with several episodes on Flask
-- [Podcast Init](https://www.podcastinit.com/) - A popular Python podcast that features Flask guests on occasion
+- [Podcast Init](https://www.pythonpodcast.com/) - A popular Python podcast that features Flask guests on occasion
 - [Python Bytes](https://pythonbytes.fm/) - Another Python podcast that discusses Flask from time to time
 - [Full Stack Python's Best Python Podcasts Page](https://www.fullstackpython.com/best-python-podcasts.html) - A list of active Python-specific podcasts
 
@@ -252,7 +253,7 @@
 
 - [Flask Web Development](https://www.oreilly.com/library/view/flask-web-development/9781491991725/)
 - [Real Python](https://realpython.com)
-- [Explore Flask](http://exploreflask.com)
+- [Explore Flask](https://exploreflask.com/)
 
 ### Videos
 
@@ -300,7 +301,7 @@ Compute:
 
 ### Boilerplate
 
-- [cookiecutter-flask](https://github.com/sloria/cookiecutter-flask)
+- [cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask)
 - [Cookiecutter Flask Skeleton](https://github.com/realpython/cookiecutter-flask-skeleton)
 - [gae-init](https://gae-init.appspot.com) - For starting new applications on Google App Engine
 - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder)
@@ -316,7 +317,7 @@ Compute:
 - [Airflow](https://github.com/apache/airflow/tree/master/airflow/www)
 - [FlaskBB](https://github.com/flaskbb/flaskbb)
 - [Indico](https://github.com/indico/indico)
-- [Quokka CMS](https://github.com/rochacbruno/quokka)
+- [Quokka CMS](http://quokkaproject.org/)
 - [SkyLines](https://github.com/skylines-project/skylines)
 - [Timesketch](https://github.com/google/timesketch)
 - [Security Monkey](https://github.com/Netflix/security_monkey)
