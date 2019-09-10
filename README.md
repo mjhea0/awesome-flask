@@ -323,3 +323,4 @@ Compute:
 - [Security Monkey](https://github.com/Netflix/security_monkey)
 - [SecureDrop](https://github.com/freedomofpress/securedrop)
 - [PythonBuddy](https://github.com/ethanchewy/PythonBuddy)
+- [Busy Beaver](https://github.com/busy-beaver-dev/busy-beaver)
