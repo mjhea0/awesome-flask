@@ -164,6 +164,7 @@
 ### Task Queues
 
 - [Celery](http://www.celeryproject.org/)
+- [Dramatiq](https://flask-dramatiq.rtfd.io/)
 - [Flask-RQ](https://github.com/mattupstate/flask-rq)
 - [Huey](https://huey.readthedocs.io)
 
