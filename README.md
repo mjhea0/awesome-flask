@@ -64,6 +64,7 @@
 
 - [Flask-RESTPlus](https://flask-restplus.readthedocs.io)
 - [Connexion](https://connexion.readthedocs.io)
+- [Flask-Rebar](https://github.com/plangrid/flask-rebar)
 
 #### Swagger/OpenAPI Documentation Support
 
