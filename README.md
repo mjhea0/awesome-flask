@@ -242,7 +242,6 @@
 
 - [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - [Intro to Flask, Test-Driven Development (TDD), and JavaScript](https://github.com/mjhea0/flaskr-tdd)
-- [Flask Tutorial - Step By Step](https://learn.rmotr.com/python/flask-tutorial-step-by-step/first-steps/course-introduction)
 - [Make a Web App Using Python & Flask!](https://aryaboudaie.com/python/technical/educational/web/flask/2018/10/17/flask.html)
 
 ### Courses
