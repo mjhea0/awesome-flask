@@ -1,6 +1,7 @@
 <div align="center">
   <a href="https://github.com/sindresorhus/awesome#readme"><img src="https://awesome.re/badge-flat.svg" /></a>
   <a href="https://travis-ci.org/mjhea0/awesome-flask"><img src="https://api.travis-ci.org/mjhea0/awesome-flask.svg?branch=master" alt="Build Status" /></a></p>
+  <a href="https://twitter.com/intent/tweet?text=Awesome%20Flask%20-%20a%20curated%20list%20of%20awesome%20things%20related%20to%20Flask%20https%3A//github.com/mjhea0/awesome-flask%20%23webdev">Share on Twitter</a>
   <br /><br />
   <img width="400" src="flask-logo.svg" alt="Flask logo">
 </div>
@@ -246,6 +247,9 @@
 
 ### Courses
 
+- [Test-Driven Development with Python, Flask, and Docker](https://testdriven.io/courses/tdd-flask/)
+- [Authentication with Flask, React, and Docker](https://testdriven.io/courses/auth-flask-react/)
+- [Deploying a Flask and React Microservice to AWS ECS](https://testdriven.io/courses/aws-flask-react/)
 - [Build a SAAS App with Flask](https://buildasaasappwithflask.com)
 - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
 - [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
@@ -325,3 +329,9 @@ Compute:
 - [SecureDrop](https://github.com/freedomofpress/securedrop)
 - [PythonBuddy](https://github.com/ethanchewy/PythonBuddy)
 - [Busy Beaver](https://github.com/busy-beaver-dev/busy-beaver)
+
+---
+
+<br>
+
+> **NOTE**: This tutorial is powered by **[TestDriven.io](https://testdriven.io/)**. Please support this open source project by purchasing one of our Flask courses. Learn how to build, test, and deploy microservices powered by Docker, Flask, and React!
