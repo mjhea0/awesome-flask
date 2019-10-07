@@ -208,6 +208,7 @@
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/flask) - Questions tagged `flask`
 - [Reddit](https://www.reddit.com/r/flask/) - Flask subreddit
 - IRC Channel - Chat with other Flask users on IRC channel `#pocoo` on FreeNode
+- [Flask Jobs](https://flaskjobs.com) - A job board dedicated to Flask
 
 ### Conferences
 
