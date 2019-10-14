@@ -330,6 +330,8 @@ Compute:
 - [SecureDrop](https://github.com/freedomofpress/securedrop)
 - [PythonBuddy](https://github.com/ethanchewy/PythonBuddy)
 - [Busy Beaver](https://github.com/busy-beaver-dev/busy-beaver)
+- [sr.ht](https://git.sr.ht/~sircmpwn/core.sr.ht/tree) (check out [Why I chose Flask to build sr.ht's mini-services
+](https://drewdevault.com/2019/01/30/Why-I-built-sr.ht-with-Flask.html) as well)
 
 ---
 
