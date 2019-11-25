@@ -319,19 +319,19 @@ Compute:
 
 ### Open Source Projects
 
-- [Redash](https://github.com/getredash/redash)
+- [ActorCloud](https://github.com/actorcloud/ActorCloud)
 - [Airflow](https://github.com/apache/airflow/tree/master/airflow/www)
+- [Busy Beaver](https://github.com/busy-beaver-dev/busy-beaver)
 - [FlaskBB](https://github.com/flaskbb/flaskbb)
 - [Indico](https://github.com/indico/indico)
+- [PythonBuddy](https://github.com/ethanchewy/PythonBuddy)
 - [Quokka CMS](http://quokkaproject.org/)
+- [Redash](https://github.com/getredash/redash)
 - [SkyLines](https://github.com/skylines-project/skylines)
-- [Timesketch](https://github.com/google/timesketch)
 - [Security Monkey](https://github.com/Netflix/security_monkey)
 - [SecureDrop](https://github.com/freedomofpress/securedrop)
-- [PythonBuddy](https://github.com/ethanchewy/PythonBuddy)
-- [Busy Beaver](https://github.com/busy-beaver-dev/busy-beaver)
-- [sr.ht](https://git.sr.ht/~sircmpwn/core.sr.ht/tree) (check out [Why I chose Flask to build sr.ht's mini-services
-](https://drewdevault.com/2019/01/30/Why-I-built-sr.ht-with-Flask.html) as well)
+- [sr.ht](https://git.sr.ht/~sircmpwn/core.sr.ht/tree) (check out [Why I chose Flask to build sr.ht's mini-services](https://drewdevault.com/2019/01/30/Why-I-built-sr.ht-with-Flask.html) as well)
+- [Timesketch](https://github.com/google/timesketch)
 
 ---
 
