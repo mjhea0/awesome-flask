@@ -92,7 +92,7 @@
 - [Flask-Praetorian](https://flask-praetorian.readthedocs.io) - Authentication and authorization for Flask APIs
 - [Flask-JWT](https://pythonhosted.org/Flask-JWT/) - Basic support for working with JWTs
 - [Flask-JWT-Extended](https://flask-jwt-extended.readthedocs.io) - Advanced support for working with JWTs
-- [Flask-JWT-Router](https://github.com/joegasewicz/flask-jwt-router) - Adds authorised routes to a Flask app
+- [Flask-JWT-Router](https://github.com/joegasewicz/flask-jwt-router) - Adds authorized routes to a Flask app
 
 #### OAuth
 
@@ -174,6 +174,7 @@
 ### Utils
 
 - [Flask-Babel](https://github.com/python-babel/flask-babel) - Support for internationalization (i18n) and localization (l10n)
+- [Flask-File-Upload](https://github.com/joegasewicz/flask-file-upload) - Easy file uploads
 - [Flask-FlatPages](https://pythonhosted.org/Flask-FlatPages/) - Provides flat static pages based on text files
 - [Frozen-Flask](https://github.com/Frozen-Flask/Frozen-Flask) - Freezes a Flask application into a set of static files
 - [Flask-GraphQL](https://github.com/graphql-python/flask-graphql) - GraphQL support
