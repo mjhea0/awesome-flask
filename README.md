@@ -92,6 +92,7 @@
 - [Flask-Praetorian](https://flask-praetorian.readthedocs.io) - Authentication and authorization for Flask APIs
 - [Flask-JWT](https://pythonhosted.org/Flask-JWT/) - Basic support for working with JWTs
 - [Flask-JWT-Extended](https://flask-jwt-extended.readthedocs.io) - Advanced support for working with JWTs
+- [Flask-JWT-Router](https://github.com/joegasewicz/flask-jwt-router) - Adds authorised routes to a Flask app
 
 #### OAuth
 
