@@ -332,6 +332,7 @@ Compute:
 - [SkyLines](https://github.com/skylines-project/skylines)
 - [Security Monkey](https://github.com/Netflix/security_monkey)
 - [SecureDrop](https://github.com/freedomofpress/securedrop)
+- [SimpleLogin](https://github.com/simple-login/app)
 - [sr.ht](https://git.sr.ht/~sircmpwn/core.sr.ht/tree) (check out [Why I chose Flask to build sr.ht's mini-services](https://drewdevault.com/2019/01/30/Why-I-built-sr.ht-with-Flask.html) as well)
 - [Timesketch](https://github.com/google/timesketch)
 
