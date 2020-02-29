@@ -63,7 +63,7 @@
 
 #### RESTful API + Swagger/OpenAPI Documentation Support
 
-- [Flask-RESTPlus](https://flask-restplus.readthedocs.io)
+- [Flask-RESTX](https://flask-restx.readthedocs.io)
 - [Connexion](https://connexion.readthedocs.io)
 - [Flask-Rebar](https://github.com/plangrid/flask-rebar)
 
@@ -311,7 +311,7 @@ Compute:
 ### Boilerplate
 
 - [cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask)
-- [Cookiecutter Flask Skeleton](https://github.com/realpython/cookiecutter-flask-skeleton)
+- [Cookiecutter Flask Skeleton](https://github.com/testdrivenio/cookiecutter-flask-skeleton)
 - [gae-init](https://gae-init.appspot.com) - For starting new applications on Google App Engine
 - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder)
 - [flask-base](http://hack4impact.github.io/flask-base/)
