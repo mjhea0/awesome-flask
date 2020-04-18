@@ -308,7 +308,7 @@ Compute:
 
 ## Projects
 
-### Boilerplate
+### Boilerplates
 
 - [cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask)
 - [Cookiecutter Flask Skeleton](https://github.com/testdrivenio/cookiecutter-flask-skeleton)
