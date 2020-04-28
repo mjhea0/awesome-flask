@@ -156,6 +156,7 @@
 ### Full-text Search
 
 - [SQLAlchemy-Searchable](https://sqlalchemy-searchable.readthedocs.io) - Provides full-text search capabilities for SQLAlchemy models
+- [Flask-WhooshAlchemy3](https://github.com/blakev/Flask-WhooshAlchemy3) - Full-text search - Whoosh indexing capabilities for Flask-SQLAlchemy
 
 ### Security
 
