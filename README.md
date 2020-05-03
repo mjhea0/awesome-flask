@@ -55,7 +55,6 @@
 
 #### RESTful API Support
 
-
 - [Flask-RESTful](https://flask-restful.readthedocs.io)
 - [Flask-Classful](http://flask-classful.teracy.org/)
 - [Flask-MongoRest](https://github.com/closeio/flask-mongorest)
@@ -306,6 +305,7 @@ Compute:
 
 - [AWS Lambda](https://aws.amazon.com/lambda/)
 - [Google Cloud Functions](https://cloud.google.com/functions/)
+- [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
 
 ## Projects
 
