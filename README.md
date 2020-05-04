@@ -69,6 +69,7 @@
 #### Swagger/OpenAPI Documentation Support
 
 - [Flask-APISpec](https://flask-apispec.readthedocs.io/en/latest/)
+- [SAFRS: Python OpenAPI & JSON:API Framework](https://github.com/thomaxxl/safrs) - SAFRS, which is an acronym for *S*ql*A*lchemy *F*lask-*R*estful *S*wagger, is meant to help developers create self-documenting JSON APIs for SQLAlchemy database objects and relationships
 
 #### Serialization
 
@@ -105,12 +106,21 @@
 
 ### Databases
 
+#### ORMs
+
 - [Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com) - Support for SQLAlchemy, a SQL toolkit and ORM
-- [Flask-Alembic](https://flask-alembic.readthedocs.io) - Configurable Alembic migration environment around a Flask-SQLAlchemy database for handling database migrations
 - [Flask-Peewee](https://flask-peewee.readthedocs.io) - Support for Peewee, an ORM and database migration tool
 - [Flask-Pony](https://pypi.org/project/Flask-Pony/) - Support for Pony ORM
+
+#### ODMs
+
 - [Flask-PyMongo](https://flask-pymongo.readthedocs.io) - Bridges Flask and PyMongo for working with MongoDB
 - [Flask-MongoEngine](https://flask-mongoengine.readthedocs.io) - Bridges Flask and MongoEngine for working with MongoDB
+
+#### Other Tools
+
+- [Flask-Alembic](https://flask-alembic.readthedocs.io) - Configurable Alembic migration environment around a Flask-SQLAlchemy database for handling database migrations
+- [Flask-Excel](https://github.com/pyexcel-webwares/Flask-Excel) - uses [pyexcel](https://github.com/pyexcel/pyexcel) to read, manipulate, and write data in different Excel formats: csv, ods, xls, xlsx and xlsm
 
 ### Developer Tools
 
