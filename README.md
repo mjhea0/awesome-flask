@@ -218,7 +218,7 @@
 ### Community
 
 - [Mailing List](https://mail.python.org/mailman/listinfo/flask) (`flask@python.org`) - General discussion of Flask and the Pallets projects
-- [Discord](https://discordapp.com/invite/t6rrQZH) - Pallets Projects community on Discord (use the `#get-help` channel for Flask support)
+- [Discord](https://discord.com/invite/t6rrQZH) - Pallets Projects community on Discord (use the `#get-help` channel for Flask support)
 - [Twitter](https://twitter.com/palletsteam) - For official announcements on updates, security fixes, etc.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/flask) - Questions tagged `flask`
 - [Reddit](https://www.reddit.com/r/flask/) - Flask subreddit
