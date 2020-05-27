@@ -82,7 +82,7 @@
 - [Flask-Login](https://flask-login.readthedocs.io/) - Account management and authentication
 - [Flask Principal](https://pythonhosted.org/Flask-Principal/) - Authorization
 - [Flask-HTTPAuth](https://flask-httpauth.readthedocs.io) - Authentication
-- [Flask-Security](https://pythonhosted.org/Flask-Security/) - Account management, authentication, authorization
+- [Flask-Security-Too](https://flask-security-too.readthedocs.io/en/stable/) - Account management, authentication, authorization
 - [Flask-User](https://flask-user.readthedocs.io) - Account management, authentication, authorization
 
 > Curious about the differences differences between Flask-User and Flask-Security? Review the Flask-User [FAQ](https://flask-user.readthedocs.io/en/latest/faq.html).
