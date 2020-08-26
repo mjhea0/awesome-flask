@@ -263,6 +263,7 @@
 
 ### Courses
 
+- [Developing Web Applications with Python and Flask](https://testdriven.io/courses/learn-flask/)
 - [Test-Driven Development with Python, Flask, and Docker](https://testdriven.io/courses/tdd-flask/)
 - [Authentication with Flask, React, and Docker](https://testdriven.io/courses/auth-flask-react/)
 - [Deploying a Flask and React Microservice to AWS ECS](https://testdriven.io/courses/aws-flask-react/)
