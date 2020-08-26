@@ -178,7 +178,7 @@
 
 ### Task Queues
 
-- [Celery](http://www.celeryproject.org/)
+- [Celery](https://docs.celeryproject.org/)
 - [Dramatiq](https://flask-dramatiq.rtfd.io/)
 - [Flask-RQ](https://github.com/mattupstate/flask-rq)
 - [Huey](https://huey.readthedocs.io)
@@ -343,7 +343,7 @@ Compute:
 - [FlaskBB](https://github.com/flaskbb/flaskbb)
 - [Indico](https://github.com/indico/indico)
 - [PythonBuddy](https://github.com/ethanchewy/PythonBuddy)
-- [Quokka CMS](http://quokkaproject.org/)
+- [Quokka CMS](https://github.com/quokkaproject)
 - [Redash](https://github.com/getredash/redash)
 - [SkyLines](https://github.com/skylines-project/skylines)
 - [Security Monkey](https://github.com/Netflix/security_monkey)
