@@ -17,6 +17,7 @@
   - [APIs](#apis)
   - [Auth](#auth)
   - [Cache](#cache)
+  - [Data Validation](#data-validation)
   - [Databases](#databases)
   - [Developer Tools](#developer-tools)
   - [Email](#email)
@@ -103,6 +104,10 @@
 ### Cache
 
 - [Flask-Caching](https://flask-caching.readthedocs.io/) - Caching support
+
+### Data Validation
+
+- [Flask-Pydantic](https://github.com/bauerji/flask_pydantic) - Adds [Pydantic](https://github.com/samuelcolvin/pydantic) support
 
 ### Databases
 
@@ -333,7 +338,7 @@ Compute:
 - [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container
 - [React-Redux-Flask](https://github.com/dternyak/React-Redux-Flask)
 - [Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold)
-- [Flask-VueJS](https://github.com/pacotei/flask-vuejs)
+- [Flask-VueJS](https://github.com/marcuxyz/flask-vuejs) ([tutorial](https://testdriven.io/blog/combine-flask-vue/) showing the methods for combining Flask and Vue)
 
 ### Open Source Projects
 
