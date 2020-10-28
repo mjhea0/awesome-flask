@@ -85,6 +85,7 @@
 - [Flask-HTTPAuth](https://flask-httpauth.readthedocs.io) - Authentication
 - [Flask-Security-Too](https://flask-security-too.readthedocs.io/en/stable/) - Account management, authentication, authorization
 - [Flask-User](https://flask-user.readthedocs.io) - Account management, authentication, authorization
+- [Flask-SimpleLogin](https://github.com/flask-extensions/flask_simplelogin) - Authentication
 
 > Curious about the differences differences between Flask-User and Flask-Security? Review the Flask-User [FAQ](https://flask-user.readthedocs.io/en/latest/faq.html).
 
