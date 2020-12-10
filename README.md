@@ -78,7 +78,7 @@
 
 ### Auth
 
-#### Basic (for HTML Endpoints)
+#### Basic Auth and Session-based (for HTML Endpoints)
 
 - [Flask-Login](https://flask-login.readthedocs.io/) - Account management and authentication
 - [Flask Principal](https://pythonhosted.org/Flask-Principal/) - Authorization
@@ -123,9 +123,16 @@
 - [Flask-PyMongo](https://flask-pymongo.readthedocs.io) - Bridges Flask and PyMongo for working with MongoDB
 - [Flask-MongoEngine](https://flask-mongoengine.readthedocs.io) - Bridges Flask and MongoEngine for working with MongoDB
 
+#### Migrations
+
+- [Flask-Alembic](https://flask-alembic.readthedocs.io) - Configurable [Alembic](https://alembic.sqlalchemy.org/) migration environment around a Flask-SQLAlchemy database for handling database migrations
+- [Flask-Migrate](https://flask-migrate.readthedocs.io) - Handles SQLAlchemy database migrations via Alembic
+- [Flask-DB](https://flask-alembic.readthedocs.io) - Flask CLI extension that helps you migrate, drop, create and seed your SQL database
+
+> Curious about the differences between Alembic, Flask-Alembic, Flask-Migrate, and Flask-DB? Review [this item](https://github.com/nickjj/flask-db#differences-between-alembic-flask-migrate-flask-alembic-and-flask-db) from Flask-DB's FAQ.
+
 #### Other Tools
 
-- [Flask-Alembic](https://flask-alembic.readthedocs.io) - Configurable Alembic migration environment around a Flask-SQLAlchemy database for handling database migrations
 - [Flask-Excel](https://github.com/pyexcel-webwares/Flask-Excel) - uses [pyexcel](https://github.com/pyexcel/pyexcel) to read, manipulate, and write data in different Excel formats: csv, ods, xls, xlsx and xlsm
 
 ### Developer Tools
