@@ -306,6 +306,7 @@
 - [AWS EC2](https://aws.amazon.com/ec2/)
 - [Google Compute Engine](https://cloud.google.com/compute/)
 - [Digital Ocean](https://www.digitalocean.com/)
+<!-- markdown-link-check-disable-next-line -->
 - [Linode](https://www.linode.com/)
 
 ### Serverless
