@@ -202,6 +202,7 @@
 - [Flask-Paginate](https://pythonhosted.org/Flask-paginate/) - Pagination support.
 - [Flask-Sitemap](https://flask-sitemap.readthedocs.io) - Sitemap generation.
 - [Flask-SocketIO](https://flask-socketio.readthedocs.io) - Socket.IO integration.
+- [Flask-Shell2HTTP](https://github.com/Eshaan7/Flask-Shell2HTTP) - Execute shell commands asynchronously via HTTP server (via flask's endpoints).
 
 ## Resources
 
