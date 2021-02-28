@@ -200,9 +200,9 @@
 - [Flask-Limiter](https://flask-limiter.readthedocs.io) - Rate limiting features to Flask routes.
 - [Flask-Moment](https://github.com/miguelgrinberg/Flask-Moment) - Moment.js date and time formatting helpers for Jinja2 templates.
 - [Flask-Paginate](https://pythonhosted.org/Flask-paginate/) - Pagination support.
+- [Flask-Shell2HTTP](https://github.com/Eshaan7/Flask-Shell2HTTP) - RESTful/HTTP wrapper for Python's subprocess API, so you can convert any command-line tool into a RESTful API service.
 - [Flask-Sitemap](https://flask-sitemap.readthedocs.io) - Sitemap generation.
 - [Flask-SocketIO](https://flask-socketio.readthedocs.io) - Socket.IO integration.
-- [Flask-Shell2HTTP](https://github.com/Eshaan7/Flask-Shell2HTTP) - Execute shell commands asynchronously via HTTP server (via flask's endpoints).
 
 ## Resources
 
