@@ -237,7 +237,7 @@
 ### Conferences
 
 - [FlaskCon](https://flaskcon.com/) - Community driven Flask event intended for speakers and attendees all over the world to participate in technical and evangelical sessions related to Flask.
-- [PyConWeb](https://pyconweb.com/) - Covers Django, Tornado, Flask, API frameworks. AsyncIO, networking, Frontend, JavaScript, and web security.
+- [PyConWeb](https://twitter.com/pyconweb) - Covers Django, Tornado, Flask, API frameworks. AsyncIO, networking, Frontend, JavaScript, and web security.
 - [Flask Conf Brazil](https://2019.flask.python.org.br/) - Conference for the developers and users of Flask.
 - [PyCon US](https://us.pycon.org/) - The largest annual gathering for the community using and developing the open-source Python programming language.
 - [PyCon Australia](https://pycon-au.org/) - National conference organized for the Python Programming Community.
