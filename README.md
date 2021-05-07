@@ -228,7 +228,6 @@
 ### Community
 
 - [Discord](https://discord.com/invite/t6rrQZH) - Pallets Projects community on Discord (use the `#get-help` channel for Flask support).
-- [Flask Jobs](https://flaskjobs.com) - A job board dedicated to Flask.
 - IRC Channel - Chat with other Flask users on IRC channel `#pocoo` on FreeNode.
 - [Mailing List](https://mail.python.org/mailman/listinfo/flask) - General discussion of Flask and the Pallets projects (`flask@python.org`).
 - [Reddit](https://www.reddit.com/r/flask/) - Flask subreddit.
