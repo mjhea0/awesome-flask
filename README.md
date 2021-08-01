@@ -142,7 +142,7 @@
 
 #### Logging
 
-- [Rollbar](https://rollbar.com/error-tracking/flask/) - Flask error logging with Rollbar.
+- [Rollbar](https://rollbar.com/platforms/flask-error-tracking/) - Flask error logging with Rollbar.
 
 #### Monitoring
 
