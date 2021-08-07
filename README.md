@@ -337,6 +337,7 @@ Compute:
 - [React-Redux-Flask](https://github.com/dternyak/React-Redux-Flask) - Boilerplate application for a Flask JWT Backend and a React/Redux Front-End with Material UI.
 - [Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask.
 - [Flask-VueJS](https://github.com/marcuxyz/flask-vuejs) - Connect Flask application with VueJS.
+- [webpack-bootstrap-flask](https://github.com/tarponjargon/webpack-bootstrap-flask) - Scaleable scaffolding for a webpack-bootstrap-flask stack. And, finds you a rescue dog!
 
 ### Open Source Projects
 
