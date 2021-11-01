@@ -74,7 +74,7 @@
 - [Flask-Login](https://flask-login.readthedocs.io/) - Account management and authentication.
 - [Flask Principal](https://pythonhosted.org/Flask-Principal/) - Authorization.
 - [Flask-Security-Too](https://flask-security-too.readthedocs.io/en/stable/) - Account management, authentication, authorization.
-- [Flask-SimpleLogin](https://github.com/flask-extensions/flask_simplelogin) - Authentication.
+- [Flask-SimpleLogin](https://github.com/flask-extensions/Flask-SimpleLogin) - Authentication.
 - [Flask-User](https://flask-user.readthedocs.io) - Account management, authentication, authorization.
 
 > Curious about the differences differences between Flask-User and Flask-Security? Review the Flask-User [FAQ](https://flask-user.readthedocs.io/en/latest/faq.html).
@@ -99,7 +99,7 @@
 ### Data Validation and Serialization
 
 - [Flask-Marshmallow](https://flask-marshmallow.readthedocs.io) - Thin integration layer for Flask and marshmallow (an object serialization /deserialization library) that adds additional features to marshmallow.
-- [Flask-Pydantic](https://github.com/bauerji/flask_pydantic) - [Pydantic](https://github.com/samuelcolvin/pydantic) support.
+- [Flask-Pydantic](https://github.com/bauerji/flask-pydantic) - [Pydantic](https://github.com/samuelcolvin/pydantic) support.
 
 ### Databases
 
@@ -296,7 +296,7 @@
 - [PythonAnywhere](https://www.pythonanywhere.com/details/flask_hosting)
 - [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 - [Google App Engine](https://cloud.google.com/appengine/)
-- [Microsoft Azure App Service](https://azure.microsoft.com/services/app-service/)
+- [Microsoft Azure App Service](https://azure.microsoft.com/en-us/services/app-service/)
 - [Divio](https://www.divio.com)
 - [Render](https://render.com/)
 
