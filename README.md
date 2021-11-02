@@ -286,6 +286,10 @@
 - [Python Flask Tutorial: Full-Featured Web App](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
 - [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
 
+### Internationalization
+
+- [Free PO editor](https://pofile.net/free-po-editor) — A tool for translating PO files for Flask localization.
+
 ## Hosting
 
 ### PaaS
