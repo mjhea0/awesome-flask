@@ -333,6 +333,7 @@ Compute:
 - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework that includes detailed security, auto CRUD generation for your models, Google charts, and much more.
 - [flask-base](http://hack4impact.github.io/flask-base/) - Includes SQLAlchemy, Redis, User Authentication, and more.
 - [Flask-Bootstrap](https://github.com/esbullington/flask-bootstrap) - Integrated SQLAlchemy, authentication, and Bootstrap frontend.
+- [flask-htmx-boilerplate](https://github.com/marcusschiesser/flask-htmx-boilerplate) - Boilerplate template for a Python Flask application with HTMX and Tailwind CSS
 - [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container.
 - [React-Redux-Flask](https://github.com/dternyak/React-Redux-Flask) - Boilerplate application for a Flask JWT Backend and a React/Redux Front-End with Material UI.
 - [Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask.
