@@ -146,7 +146,7 @@
 
 #### Monitoring
 
-- [Airbrake](https://airbrake.io/docs/installing-airbrake/installing-airbrake-in-a-flask-app/) - Airbrake Flask integration.
+- [Airbrake](https://docs.airbrake.io/docs/platforms/flask/) - Airbrake Flask integration.
 - [Elastic APM Agent](https://www.elastic.co/guide/en/apm/agent/python/current/flask-support.html) - Elastic APM Flask integration.
 - [Flask Monitoring Dashboard](https://flask-monitoringdashboard.readthedocs.io) - Dashboard for automatic monitoring of Flask web-services.
 - [Sentry Python SDK](https://sentry.io/for/flask/) - Sentry SDK Flask integration.
@@ -201,7 +201,7 @@
 - [Flask-Limiter](https://flask-limiter.readthedocs.io) - Rate limiting features to Flask routes.
 - [Flask-Moment](https://github.com/miguelgrinberg/Flask-Moment) - Moment.js date and time formatting helpers for Jinja2 templates.
 - [Flask-Paginate](https://pythonhosted.org/Flask-paginate/) - Pagination support.
-- [Flask-Reactize](https://github.com/jchomarat/flask-reactize) - Replaces the nodejs development backend for ReactJS with Flask
+- [Flask-Reactize](https://github.com/jchomarat/flask-reactize) - Replaces the Node.js development backend for React with Flask.
 - [Flask-Shell2HTTP](https://github.com/Eshaan7/Flask-Shell2HTTP) - RESTful/HTTP wrapper for Python's subprocess API, so you can convert any command-line tool into a RESTful API service.
 - [Flask-Sitemap](https://flask-sitemap.readthedocs.io) - Sitemap generation.
 - [Flask-SocketIO](https://flask-socketio.readthedocs.io) - Socket.IO integration.
