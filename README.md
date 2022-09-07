@@ -146,7 +146,7 @@
 
 #### Monitoring
 
-- [Airbrake](https://docs.airbrake.io/docs/platforms/flask/) - Airbrake Flask integration.
+- [Airbrake](https://docs.airbrake.io/docs/platforms/framework/python/flask/) - Airbrake Flask integration.
 - [Elastic APM Agent](https://www.elastic.co/guide/en/apm/agent/python/current/flask-support.html) - Elastic APM Flask integration.
 - [Flask Monitoring Dashboard](https://flask-monitoringdashboard.readthedocs.io) - Dashboard for automatic monitoring of Flask web-services.
 - [Sentry Python SDK](https://sentry.io/for/flask/) - Sentry SDK Flask integration.
