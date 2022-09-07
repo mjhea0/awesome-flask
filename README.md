@@ -99,7 +99,7 @@
 ### Data Validation and Serialization
 
 - [Flask-Marshmallow](https://flask-marshmallow.readthedocs.io) - Thin integration layer for Flask and marshmallow (an object serialization /deserialization library) that adds additional features to marshmallow.
-- [Flask-Pydantic](https://github.com/bauerji/flask-pydantic) - [Pydantic](https://github.com/samuelcolvin/pydantic) support.
+- [Flask-Pydantic](https://github.com/bauerji/flask-pydantic) - [Pydantic](https://github.com/pydantic/pydantic) support.
 
 ### Databases
 
@@ -237,7 +237,7 @@
 
 ### Conferences
 
-- [FlaskCon](https://flaskcon.com/) - Community driven Flask event intended for speakers and attendees all over the world to participate in technical and evangelical sessions related to Flask.
+- [FlaskCon](https://twitter.com/flaskcon) - Community driven Flask event intended for speakers and attendees all over the world to participate in technical and evangelical sessions related to Flask.
 - [PyConWeb](https://twitter.com/pyconweb) - Covers Django, Tornado, Flask, API frameworks. AsyncIO, networking, Frontend, JavaScript, and web security.
 - [Flask Conf Brazil](https://2019.flask.python.org.br/) - Conference for the developers and users of Flask.
 - [PyCon US](https://us.pycon.org/) - The largest annual gathering for the community using and developing the open-source Python programming language.
