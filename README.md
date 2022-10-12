@@ -134,6 +134,7 @@
 
 - [Flask-DebugToolbar](https://flask-debugtoolbar.readthedocs.io) - Port of Django's debug toolbar for Flask.
 - [Flask-Profiler](https://github.com/muatik/flask-profiler) - Endpoint analyzer/profiler.
+- [Sidekick Python Agent](https://github.com/runsidekick/sidekick-agent-python) - Sidekick Live App. Debugger Python agent
 
 #### Fixtures
 
