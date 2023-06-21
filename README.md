@@ -74,6 +74,7 @@
 - [Flask-Login](https://flask-login.readthedocs.io/) - Account management and authentication.
 - [Flask Principal](https://pythonhosted.org/Flask-Principal/) - Authorization.
 - [Flask-Security-Too](https://flask-security-too.readthedocs.io/en/stable/) - Account management, authentication, authorization.
+- [Flask-Session](https://flasksession.readthedocs.io/en/latest/) - Session managment.
 - [Flask-SimpleLogin](https://github.com/flask-extensions/Flask-SimpleLogin) - Authentication.
 - [Flask-User](https://flask-user.readthedocs.io) - Account management, authentication, authorization.
 
@@ -164,6 +165,7 @@
 
 - [Flask-Mail](https://pythonhosted.org/Flask-Mail/) - Provides simple email sending capabilities.
 - [Flask-Mailman](https://pypi.org/project/flask-mailman/) - A port of `django.mail` for Flask.
+- [Flask-Mail-SendGrid](https://github.com/hamano/flask-mail-sendgrid) - Provides simple email base on Flask-Mail for sending email by SendGrid.
 
 ### Forms
 
@@ -178,6 +180,7 @@
 
 ### Security
 
+- [Flask-Argon2](https://github.com/red-coracle/flask-argon2) - Provides argon2 hashing utilities.
 - [Flask-Bcrypt](https://flask-bcrypt.readthedocs.io) - Provides bcrypt hashing utilities.
 - [Flask-CORS](https://flask-cors.readthedocs.io) - Cross Origin Resource Sharing (CORS) handling.
 - [Flask-SeaSurf](https://github.com/maxcountryman/flask-seasurf/) - Cross-site request forgery (CSRF) prevention.
@@ -205,6 +208,7 @@
 - [Flask-Shell2HTTP](https://github.com/Eshaan7/Flask-Shell2HTTP) - RESTful/HTTP wrapper for Python's subprocess API, so you can convert any command-line tool into a RESTful API service.
 - [Flask-Sitemap](https://flask-sitemap.readthedocs.io) - Sitemap generation.
 - [Flask-SocketIO](https://flask-socketio.readthedocs.io) - Socket.IO integration.
+- [Flask-SSE](https://flask-sse.readthedocs.io) - Streaming with flask.
 
 ## Resources
 
