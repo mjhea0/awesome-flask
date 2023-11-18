@@ -330,6 +330,10 @@ Compute:
 
 ## Projects
 
+### Architecture
+
+- [MVC Flask](https://github.com/marcuxyz/mvc-flask) - You can use the mvc pattern in your flask application using this extension.
+
 ### Boilerplates
 
 - [cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - With Bootstrap 4, asset bundling annd minification with webpack, starter templates, and registration/authentication.
