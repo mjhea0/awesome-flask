@@ -51,7 +51,7 @@
 #### RESTful API Support
 
 - [Eve](https://docs.python-eve.org) - RESTful API framework designed for human beings.
-- [Flask-Classful](https://flask-classful.teracy.org/) - Adds support for class-based views for setting up RESTful API route endpoints.
+- [Flask-Classful](https://flask-classful.readthedocs.io/) - Adds support for class-based views for setting up RESTful API route endpoints.
 - [Flask-MongoRest](https://github.com/closeio/flask-mongorest) - RESTful API framework wrapped around [MongoEngine](http://mongoengine.org/).
 - [Flask-RESTful](https://flask-restful.readthedocs.io) - Quickly build RESTful APIs.
 
@@ -340,7 +340,6 @@ Compute:
 - [flask-htmx-boilerplate](https://github.com/marcusschiesser/flask-htmx-boilerplate) - Boilerplate template for a Python Flask application with HTMX and Tailwind CSS.
 - [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container.
 - [React-Redux-Flask](https://github.com/dternyak/React-Redux-Flask) - Boilerplate application for a Flask JWT Backend and a React/Redux Front-End with Material UI.
-- [Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) - Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask.
 - [MVC Flask](https://github.com/marcuxyz/mvc-flask) - You can use the mvc pattern in your flask application using this extension.
 
 ### Open Source Projects
