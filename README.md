@@ -343,6 +343,7 @@ Compute:
 - [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container.
 - [React-Redux-Flask](https://github.com/dternyak/React-Redux-Flask) - Boilerplate application for a Flask JWT Backend and a React/Redux Front-End with Material UI.
 - [MVC Flask](https://github.com/marcuxyz/mvc-flask) - You can use the mvc pattern in your flask application using this extension.
+- [Flask-Imp](https://github.com/CheeseCake87/flask-imp) - A Flask auto importer that allows your Flask apps to grow big.
 
 ### Open Source Projects
 
