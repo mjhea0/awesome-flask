@@ -209,6 +209,8 @@
 - [Flask-Sitemap](https://flask-sitemap.readthedocs.io) - Sitemap generation.
 - [Flask-SocketIO](https://flask-socketio.readthedocs.io) - Socket.IO integration.
 - [Flask-SSE](https://flask-sse.readthedocs.io) - Streaming with flask.
+- [Flask-ujson](https://github.com/pallets-eco/flask-ujson) - Change the Flask JSON Provider to ujson.  Which is an ultra fast JSON encoder and decoder written in pure C with bindings for Python 3.8+.
+- [Flask-orjson](https://github.com/pallets-eco/flask-orjson) - Change the Flask JSON Provider to orjson.  Orjson is a fast, correct JSON library for Python. It benchmarks as the fastest Python library for JSON.
 
 ## Resources
 
