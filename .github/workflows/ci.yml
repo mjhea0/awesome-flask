@@ -13,7 +13,7 @@ jobs:
           fetch-depth: 0
       - uses: actions/setup-node@v1
         with:
-          node-version: 15
+          node-version: 18
       - run: npm install --global awesome-lint
       - run: awesome-lint README.md
   awesome-bot:
@@ -24,7 +24,7 @@ jobs:
           fetch-depth: 0
       - uses: actions/setup-ruby@v1
         with:
-          ruby-version: 2.7
+          ruby-version: 3.0
       - run: gem install awesome_bot
       # - run: awesome_bot README.md --allow 302,307 --allow-ssl --allow-dupe --white-list "linode.com"
-      - run: awesome_bot README.md --allow 302 --white-list "linode.com","https://europython.eu/"
+      - run: awesome_bot README.md --allow 302 --white-list "linode.com","https://europython.eu/","https://twitter.com/PalletsTeam"
