@@ -201,19 +201,19 @@
 - [Flask-Babel](https://github.com/python-babel/flask-babel) - Support for internationalization (i18n) and localization (l10n).
 - [Flask-File-Upload](https://github.com/joegasewicz/flask-file-upload) - Easy file uploads.
 - [Flask-FlatPages](https://pythonhosted.org/Flask-FlatPages/) - Provides flat static pages based on text files.
-- [Frozen-Flask](https://github.com/Frozen-Flask/Frozen-Flask) - Freezes a Flask application into a set of static files.
 - [Flask-GraphQL](https://github.com/graphql-python/flask-graphql) - GraphQL support.
 - [Flask-Injector](https://github.com/python-injector/flask_injector) - Adds support for dependency injection.
 - [Flask-Limiter](https://flask-limiter.readthedocs.io) - Rate limiting features to Flask routes.
 - [Flask-Moment](https://github.com/miguelgrinberg/Flask-Moment) - Moment.js date and time formatting helpers for Jinja2 templates.
 - [Flask-Paginate](https://pythonhosted.org/Flask-paginate/) - Pagination support.
 - [Flask-Reactize](https://github.com/Azure-Samples/flask-reactize) - Hides the Node.js development backend for React behind a Flask application.
+- [Flask-SSE](https://flask-sse.readthedocs.io) - Streaming with flask.
 - [Flask-Shell2HTTP](https://github.com/Eshaan7/Flask-Shell2HTTP) - RESTful/HTTP wrapper for Python's subprocess API, so you can convert any command-line tool into a RESTful API service.
 - [Flask-Sitemap](https://flask-sitemap.readthedocs.io) - Sitemap generation.
 - [Flask-SocketIO](https://flask-socketio.readthedocs.io) - Socket.IO integration.
-- [Flask-SSE](https://flask-sse.readthedocs.io) - Streaming with flask.
 - [Flask-ujson](https://github.com/pallets-eco/flask-ujson) - Change the Flask JSON Provider to ujson.  Which is an ultra fast JSON encoder and decoder written in pure C with bindings for Python 3.8+.
 - [Flask-orjson](https://github.com/pallets-eco/flask-orjson) - Change the Flask JSON Provider to orjson.  Orjson is a fast, correct JSON library for Python. It benchmarks as the fastest Python library for JSON.
+- [Frozen-Flask](https://github.com/Frozen-Flask/Frozen-Flask) - Freezes a Flask application into a set of static files.
 
 ## Resources
 
@@ -342,11 +342,11 @@ Compute:
 - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework that includes detailed security, auto CRUD generation for your models, Google charts, and much more.
 - [flask-base](http://hack4impact.github.io/flask-base/) - Includes SQLAlchemy, Redis, User Authentication, and more.
 - [Flask-Bootstrap](https://github.com/esbullington/flask-bootstrap) - Integrated SQLAlchemy, authentication, and Bootstrap frontend.
+- [Flask-Imp](https://github.com/CheeseCake87/flask-imp) - A Flask auto importer that allows your Flask apps to grow big.
 - [flask-htmx-boilerplate](https://github.com/marcusschiesser/flask-htmx-boilerplate) - Boilerplate template for a Python Flask application with HTMX and Tailwind CSS.
 - [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container.
 - [React-Redux-Flask](https://github.com/dternyak/React-Redux-Flask) - Boilerplate application for a Flask JWT Backend and a React/Redux Front-End with Material UI.
 - [MVC Flask](https://github.com/marcuxyz/mvc-flask) - You can use the mvc pattern in your flask application using this extension.
-- [Flask-Imp](https://github.com/CheeseCake87/flask-imp) - A Flask auto importer that allows your Flask apps to grow big.
 
 ### Open Source Projects
 
