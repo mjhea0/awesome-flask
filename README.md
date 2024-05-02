@@ -112,7 +112,7 @@
 
 #### ODMs
 
-- [Flask-MongoEngine](https://flask-mongoengine.readthedocs.io) - Bridges Flask and MongoEngine for working with MongoDB.
+- [Flask-MongoEngine](https://flask-mongoengine-3.readthedocs.io) - Bridges Flask and MongoEngine for working with MongoDB.
 - [Flask-PyMongo](https://flask-pymongo.readthedocs.io) - Bridges Flask and PyMongo for working with MongoDB.
 
 #### Migrations
@@ -184,7 +184,7 @@
 - [Flask-Bcrypt](https://flask-bcrypt.readthedocs.io) - Provides bcrypt hashing utilities.
 - [Flask-CORS](https://flask-cors.readthedocs.io) - Cross Origin Resource Sharing (CORS) handling.
 - [Flask-SeaSurf](https://github.com/maxcountryman/flask-seasurf/) - Cross-site request forgery (CSRF) prevention.
-- [Flask-Talisman](https://github.com/GoogleCloudPlatform/flask-talisman) - HTTPS and security headers.
+- [Flask-Talisman](https://github.com/wntrblm/flask-talisman) - HTTPS and security headers.
 
 ### Task Queues
 
