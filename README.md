@@ -57,13 +57,16 @@
 
 #### RESTful API + Swagger/OpenAPI Documentation Support
 
+- [APIFlask](https://github.com/apiflask/apiflask) - Integrates marshmallow for validation and serialization, and for OpenAPI generation with Swagger UI.
 - [Connexion](https://connexion.readthedocs.io) - Open source, OpenAPI-based, REST framework built on top of Flask.
+- [Flasgger](https://github.com/flasgger/flasgger) - OpenAPI and Swagger UI. Builds the API from Flasgger models, marshmallow models, dicts, or YAML files.
 - [Flask-Rebar](https://github.com/plangrid/flask-rebar) - Combines Flask, [marshmallow](https://marshmallow.readthedocs.io/), and [OpenAPI](https://www.openapis.org/) for robust REST services.
 - [Flask-RESTX](https://flask-restx.readthedocs.io) - Community-driven fork of [Flask-RESTPlus](https://flask-restplus.readthedocs.io/) that makes it easy to build and document RESTful APIs with Flask.
+- [flask-smorest](https://github.com/marshmallow-code/flask-smorest/) - Marshmallow's official Flask REST integration. Uses marshmallow models for request/response validation and serialization, and generates OpenAPI with Swagger UI.
+
 
 #### Swagger/OpenAPI Documentation Support
 
-- [Flask-APISpec](https://flask-apispec.readthedocs.io/) - Auto-documenting REST APIs.
 - [SAFRS: Python OpenAPI & JSON:API Framework](https://github.com/thomaxxl/safrs) - SAFRS, which is an acronym for *S*ql*A*lchemy *F*lask-*R*estful *S*wagger, is meant to help developers create self-documenting JSON APIs for SQLAlchemy database objects and relationships.
 
 ### Auth
