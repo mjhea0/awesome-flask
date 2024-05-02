@@ -190,7 +190,7 @@
 
 - [Celery](https://docs.celeryproject.org/) - The most commonly used Python library for handling asynchronous tasks and scheduling.
 - [Dramatiq](https://flask-dramatiq.rtfd.io/) - Fast and reliable alternative to Celery.
-- [Flask-RQ](https://github.com/mattupstate/flask-rq) - [RQ](https://python-rq.org/) (Redis Queue) integration.
+- [Flask-RQ](https://github.com/pallets-eco/flask-rq) - [RQ](https://python-rq.org/) (Redis Queue) integration.
 - [Huey](https://huey.readthedocs.io) - [Redis](https://redis.io/)-based task queue that aims to provide a simple, yet flexible framework for executing tasks.
 
 ### Utils
