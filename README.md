@@ -44,7 +44,7 @@
 
 ### Admin
 
-- [Flask-Admin](https://github.com/flask-admin/flask-admin) - Functional admin panel that provides a user interface for managing data based on your models.
+- [Flask-Admin](https://github.com/pallets-eco/flask-admin) - Functional admin panel that provides a user interface for managing data based on your models.
 
 ### APIs
 
@@ -166,7 +166,7 @@
 
 ### Email
 
-- [Flask-Mail](https://pythonhosted.org/Flask-Mail/) - Provides simple email sending capabilities.
+- [Flask-Mail](https://flask-mail.readthedocs.io/) - Provides simple email sending capabilities.
 - [Flask-Mailman](https://pypi.org/project/flask-mailman/) - A port of `django.mail` for Flask.
 - [Flask-Mail-SendGrid](https://github.com/hamano/flask-mail-sendgrid) - Provides simple email base on Flask-Mail for sending email by SendGrid.
 
