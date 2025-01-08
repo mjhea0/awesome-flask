@@ -157,7 +157,7 @@
 
 #### Tracing
 
-- [Flask-OpenTracing](https://github.com/opentracing-contrib/python-flask) - OpenTracing instrumentation.
+- [OpenTelemetry](https://opentelemetry-python-contrib.readthedocs.io/en/latest/instrumentation/flask/flask.html) - OpenTelemetry Flask Instrumentation.
 
 #### Testing
 
@@ -285,7 +285,7 @@
 
 - [Flask Web Development](https://www.oreilly.com/library/view/flask-web-development/9781491991725/) - Learn the framework from the ground up by developing, step-by-step, a real-world project.
 - [Real Python](https://realpython.com) - Learn Python programming, by example.
-- [Explore Flask](https://exploreflask.com/) - Best practices and patterns for developing web applications with Flask.
+- [Explore Flask](https://explore-flask.readthedocs.io/) - Best practices and patterns for developing web applications with Flask.
 
 ### Videos
 
