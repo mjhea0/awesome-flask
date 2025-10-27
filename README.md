@@ -198,6 +198,7 @@
 
 ### Utils
 
+- [Apitally](https://github.com/apitally/apitally-py) - API monitoring, analytics, and request logging for Flask.
 - [Flask-Babel](https://github.com/python-babel/flask-babel) - Support for internationalization (i18n) and localization (l10n).
 - [Flask-File-Upload](https://github.com/joegasewicz/flask-file-upload) - Easy file uploads.
 - [Flask-FlatPages](https://pythonhosted.org/Flask-FlatPages/) - Provides flat static pages based on text files.
