@@ -103,7 +103,7 @@
 ### Data Validation and Serialization
 
 - [Flask-Marshmallow](https://flask-marshmallow.readthedocs.io) - Thin integration layer for Flask and marshmallow (an object serialization /deserialization library) that adds additional features to marshmallow.
-- [Flask-Pydantic](https://github.com/bauerji/flask-pydantic) - [Pydantic](https://github.com/pydantic/pydantic) support.
+- [Flask-Pydantic](https://github.com/pallets-eco/flask-pydantic) - [Pydantic](https://github.com/pydantic/pydantic) support.
 
 ### Databases
 
@@ -146,12 +146,12 @@
 
 #### Logging
 
-- [Rollbar](https://rollbar.com/platforms/flask-error-tracking/) - Flask error logging with Rollbar.
+- [Rollbar](https://docs.rollbar.com/docs/python) - Flask error logging with Rollbar.
 
 #### Monitoring
 
 - [Airbrake](https://docs.airbrake.io/docs/platforms/framework/python/flask/) - Airbrake Flask integration.
-- [Elastic APM Agent](https://www.elastic.co/guide/en/apm/agent/python/current/flask-support.html) - Elastic APM Flask integration.
+- [Elastic APM Agent](https://www.elastic.co/docs/reference/apm/agents/python/flask-support) - Elastic APM Flask integration.
 - [Flask Monitoring Dashboard](https://flask-monitoringdashboard.readthedocs.io) - Dashboard for automatic monitoring of Flask web-services.
 - [Sentry Python SDK](https://sentry.io/for/flask/) - Sentry SDK Flask integration.
 
@@ -238,7 +238,6 @@
 
 - [Discord](https://discord.com/invite/t6rrQZH) - Pallets Projects community on Discord (use the `#get-help` channel for Flask support).
 - IRC Channel - Chat with other Flask users on IRC channel `#pocoo` on FreeNode.
-- [Mailing List](https://mail.python.org/mailman/listinfo/flask) - General discussion of Flask and the Pallets projects (`flask@python.org`).
 - [Reddit](https://www.reddit.com/r/flask/) - Flask subreddit.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/flask) - Questions tagged `flask`.
 - [Twitter](https://twitter.com/PalletsTeam) - For official announcements on updates, security fixes, etc.
@@ -304,7 +303,7 @@
 - [Heroku](https://www.heroku.com/)
 - [PythonAnywhere](https://www.pythonanywhere.com/details/flask_hosting)
 - [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
-- [Google App Engine](https://cloud.google.com/appengine/)
+- [Google App Engine](https://cloud.google.com/appengine)
 - [Microsoft Azure App Service](https://azure.microsoft.com/en-us/products/app-service/)
 - [Divio](https://www.divio.com)
 - [Render](https://render.com/)
@@ -314,7 +313,7 @@
 (Infrastructure-as-a-Service)
 
 - [AWS EC2](https://aws.amazon.com/ec2/)
-- [Google Compute Engine](https://cloud.google.com/compute/)
+- [Google Compute Engine](https://cloud.google.com/compute)
 - [Digital Ocean](https://www.digitalocean.com/)
 <!-- markdown-link-check-disable-next-line -->
 - [Linode](https://www.linode.com/)
@@ -329,7 +328,7 @@ Frameworks:
 Compute:
 
 - [AWS Lambda](https://aws.amazon.com/lambda/)
-- [Google Cloud Functions](https://cloud.google.com/functions/)
+- [Google Cloud Functions](https://cloud.google.com/functions)
 - [Azure Functions](https://azure.microsoft.com/en-us/products/functions/)
 
 ## Projects
@@ -344,7 +343,6 @@ Compute:
 - [flask-htmx-boilerplate](https://github.com/marcusschiesser/flask-htmx-boilerplate) - Boilerplate template for a Python Flask application with HTMX and Tailwind CSS.
 - [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container.
 - [React-Redux-Flask](https://github.com/dternyak/React-Redux-Flask) - Boilerplate application for a Flask JWT Backend and a React/Redux Front-End with Material UI.
-- [MVC Flask](https://github.com/marcuxyz/mvc-flask) - You can use the mvc pattern in your flask application using this extension.
 
 ### Open Source Projects
 

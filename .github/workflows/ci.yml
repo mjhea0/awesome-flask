@@ -27,4 +27,4 @@ jobs:
           ruby-version: 3.0
       - run: gem install awesome_bot
       # - run: awesome_bot README.md --allow 302,307 --allow-ssl --allow-dupe --white-list "linode.com"
-      - run: awesome_bot README.md --allow 302 --white-list "linode.com","https://europython.eu/","https://twitter.com/PalletsTeam","https://www.reddit.com/r/flask/"
+      - run: awesome_bot README.md --allow 302 --white-list "linode.com","https://europython.eu/","https://twitter.com/PalletsTeam","https://www.reddit.com/r/flask/","https://www.udacity.com/course/full-stack-foundations--ud088","https://www.udacity.com/course/designing-restful-apis--ud388"
