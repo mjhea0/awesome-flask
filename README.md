@@ -85,6 +85,7 @@
 
 #### JWT-based (for JSON Endpoints)
 
+- [Axioms-Flask-Py](https://github.com/abhishektiwari/axioms-flask-py) - OAuth2/OIDC authentication and authorization for Flask APIs. Supports authentication and claim-based fine-grained authorization (scopes, roles, permissions) using JWT tokens.
 - [Flask-JWT](https://pythonhosted.org/Flask-JWT/) - Basic support for working with JWTs.
 - [Flask-JWT-Extended](https://flask-jwt-extended.readthedocs.io) - Advanced support for working with JWTs.
 - [Flask-JWT-Router](https://github.com/joegasewicz/flask-jwt-router) - Adds authorized routes to a Flask app.
