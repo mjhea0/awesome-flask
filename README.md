@@ -52,7 +52,7 @@
 
 - [Eve](https://docs.python-eve.org) - RESTful API framework designed for human beings.
 - [Flask-Classful](https://flask-classful.readthedocs.io/) - Adds support for class-based views for setting up RESTful API route endpoints.
-- [Flask-MongoRest](https://github.com/closeio/flask-mongorest) - RESTful API framework wrapped around [MongoEngine](http://mongoengine.org/).
+- [Flask-MongoRest](https://github.com/closeio/flask-mongorest) - RESTful API framework wrapped around [MongoEngine](https://github.com/MongoEngine/mongoengine).
 - [Flask-RESTful](https://flask-restful.readthedocs.io) - Quickly build RESTful APIs.
 
 #### RESTful API + Swagger/OpenAPI Documentation Support
@@ -85,7 +85,7 @@
 
 #### JWT-based (for JSON Endpoints)
 
-- [Axioms-Flask-Py](https://github.com/abhishektiwari/axioms-flask-py) - OAuth2/OIDC authentication and authorization for Flask APIs. Supports authentication and claim-based fine-grained authorization (scopes, roles, permissions) using JWT tokens.
+- [Axioms-Flask-Py](https://github.com/axioms-io/axioms-flask-py) - OAuth2/OIDC authentication and authorization for Flask APIs. Supports authentication and claim-based fine-grained authorization (scopes, roles, permissions) using JWT tokens.
 - [Flask-JWT](https://pythonhosted.org/Flask-JWT/) - Basic support for working with JWTs.
 - [Flask-JWT-Extended](https://flask-jwt-extended.readthedocs.io) - Advanced support for working with JWTs.
 - [Flask-JWT-Router](https://github.com/joegasewicz/flask-jwt-router) - Adds authorized routes to a Flask app.
@@ -186,7 +186,7 @@
 
 - [Flask-Argon2](https://github.com/red-coracle/flask-argon2) - Provides argon2 hashing utilities.
 - [Flask-Bcrypt](https://flask-bcrypt.readthedocs.io) - Provides bcrypt hashing utilities.
-- [Flask-CORS](https://flask-cors.readthedocs.io) - Cross Origin Resource Sharing (CORS) handling.
+- [Flask-CORS](https://flask-cors.readthedocs.io/) - Cross Origin Resource Sharing (CORS) handling.
 - [Flask-SeaSurf](https://github.com/maxcountryman/flask-seasurf/) - Cross-site request forgery (CSRF) prevention.
 - [Flask-Talisman](https://github.com/wntrblm/flask-talisman) - HTTPS and security headers.
 
@@ -348,7 +348,6 @@ Compute:
 ### Open Source Projects
 
 - [ActorCloud](https://github.com/actorcloud/ActorCloud) - Open-source IoT Platform.
-- [Airflow](https://github.com/apache/airflow/tree/master/airflow/www)
 - [Busy Beaver](https://github.com/busy-beaver-dev/busy-beaver) - Chicago Python's Community Engagement Slack bot.
 - [FlaskBB](https://github.com/flaskbb/flaskbb) - Classic forum software.
 - [Indico](https://github.com/indico/indico) - Feature-rich event management system, made at [CERN](https://home.cern/).
