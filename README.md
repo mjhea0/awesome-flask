@@ -96,6 +96,7 @@
 - [Authlib](https://authlib.org/) - Library for building OAuth and OpenID clients and servers.
 - [Authomatic](https://github.com/authomatic/authomatic) - Framework agnostic library for Python web applications that simplifies authentication and authorization of users via OAuth and OpenID.
 - [Flask-Dance](https://github.com/singingwolfboy/flask-dance) - OAuth support via [OAuthLib](https://oauthlib.readthedocs.io/).
+- [scalekit-flask-auth-example](https://github.com/scalekit-inc/scalekit-flask-auth-example) - OIDC SSO reference app with Scalekit for Flask (enterprise identity patterns).
 
 ### Cache
 
