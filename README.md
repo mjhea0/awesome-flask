@@ -308,6 +308,7 @@
 - [Microsoft Azure App Service](https://azure.microsoft.com/en-us/products/app-service/)
 - [Divio](https://www.divio.com)
 - [Render](https://render.com/)
+- [SnapDeploy](https://snapdeploy.dev) - Docker container hosting with 1-click Flask template and free tier. Auto-detects Flask, configures gunicorn on port 5000.
 
 ### IaaS
 
