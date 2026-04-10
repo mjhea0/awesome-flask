@@ -38,6 +38,7 @@
   - [Serverless](#serverless)
 - [Projects](#projects)
   - [Boilerplates](#boilerplates)
+- [Flask SaaS Starter](https://github.com/clementslowik/flask-saas-starter) - Ready-to-deploy boilerplate with auth, API keys, rate limiting, Stripe billing, SQLite WAL, systemd deploy.
   - [Open Source Projects](#open-source-projects)
 
 ## Third-Party Extensions
