@@ -170,6 +170,7 @@
 - [Flask-Mail](https://flask-mail.readthedocs.io/) - Provides simple email sending capabilities.
 - [Flask-Mailman](https://pypi.org/project/flask-mailman/) - A port of `django.mail` for Flask.
 - [Flask-Mail-SendGrid](https://github.com/hamano/flask-mail-sendgrid) - Provides simple email base on Flask-Mail for sending email by SendGrid.
+- [secure](https://github.com/TypeError/secure) – A lightweight library for defining and applying HTTP security headers consistently in Flask applications.
 
 ### Forms
 
