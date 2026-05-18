@@ -363,6 +363,9 @@ Compute:
 - [sr.ht](https://git.sr.ht/~sircmpwn/core.sr.ht/tree) - Git hosting service (check out [Why I chose Flask to build sr.ht's mini-services](https://drewdevault.com/2019/01/30/Why-I-built-sr.ht-with-Flask.html) as well).
 - [Timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis.
 
+- [AI Resume Screener](https://github.com/aasimansari1/Resume-Screening) - NLP-powered candidate ranking web app built with Flask, spaCy, and scikit-learn. Parses PDF/DOCX resumes, scores candidates via TF-IDF + skills matching, generates interview questions, and exports ranked CSV/PDF reports.
+- [FakeShield AI](https://github.com/aasimansari1/fake-news-detector) - Fake news detection web app using Flask, NLTK, and scikit-learn. Benchmarks 4 ML models, auto-selects the best, and returns confidence scores with explainable word-level evidence.
+
 ---
 
 <br>
