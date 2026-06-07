@@ -165,6 +165,10 @@
 - [Flask-Testing](https://pythonhosted.org/Flask-Testing/) - Unittest extensions.
 - [Pytest-Flask](https://github.com/pytest-dev/pytest-flask) - Pytest support for testing Flask applications.
 
+#### Static Analysis
+
+- [flawed](https://github.com/execveat/flawed) - Static analysis for Flask apps that models routes, request inputs, auth checks, and value flow; write detection rules in plain Python.
+
 ### Email
 
 - [Flask-Mail](https://flask-mail.readthedocs.io/) - Provides simple email sending capabilities.
