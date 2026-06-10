@@ -215,6 +215,7 @@
 - [Flask-Sitemap](https://flask-sitemap.readthedocs.io) - Sitemap generation.
 - [Flask-SocketIO](https://flask-socketio.readthedocs.io) - Socket.IO integration.
 - [Flask-SSE](https://flask-sse.readthedocs.io) - Streaming with flask.
+- [flask-unirate](https://github.com/UniRate-API/flask-unirate) - Currency exchange rates with Jinja filters (`unirate_convert`, `unirate_format`) and optional Flask-Caching integration.
 
 ## Resources
 
