@@ -345,6 +345,7 @@ Compute:
 - [flask-htmx-boilerplate](https://github.com/marcusschiesser/flask-htmx-boilerplate) - Boilerplate template for a Python Flask application with HTMX and Tailwind CSS.
 - [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container.
 - [React-Redux-Flask](https://github.com/dternyak/React-Redux-Flask) - Boilerplate application for a Flask JWT Backend and a React/Redux Front-End with Material UI.
+- [Stripe Micro SaaS Starter](https://github.com/cedendahlkim/stripe-micro-saas) - One-file Flask template with Stripe Checkout, webhooks, SQLite, dark theme, and optional AI-powered customer insights. Launch a micro SaaS in 5 minutes.
 
 ### Open Source Projects
 
