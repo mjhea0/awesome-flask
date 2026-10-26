@@ -197,6 +197,7 @@
 - [Dramatiq](https://flask-dramatiq.rtfd.io/) - Fast and reliable alternative to Celery.
 - [Flask-RQ](https://github.com/pallets-eco/flask-rq) - [RQ](https://python-rq.org/) (Redis Queue) integration.
 - [Huey](https://huey.readthedocs.io) - [Redis](https://redis.io/)-based task queue that aims to provide a simple, yet flexible framework for executing tasks.
+- [celery-manager](https://github.com/Pythondeveloper6/celery-manager) - Dashboard and REST API for monitoring and controlling Celery tasks in Flask apps.
 
 ### Utils
 
