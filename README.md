@@ -164,6 +164,7 @@
 
 - [Flask-Testing](https://pythonhosted.org/Flask-Testing/) - Unittest extensions.
 - [Pytest-Flask](https://github.com/pytest-dev/pytest-flask) - Pytest support for testing Flask applications.
+- [pytest-queryguard](https://github.com/MaciejZiel/pytest-queryguard) - Fail tests that send N+1 queries through Flask-SQLAlchemy and enforce per-test query budgets.
 
 ### Email
 
