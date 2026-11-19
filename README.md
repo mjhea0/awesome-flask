@@ -96,6 +96,7 @@
 - [Authlib](https://authlib.org/) - Library for building OAuth and OpenID clients and servers.
 - [Authomatic](https://github.com/authomatic/authomatic) - Framework agnostic library for Python web applications that simplifies authentication and authorization of users via OAuth and OpenID.
 - [Flask-Dance](https://github.com/singingwolfboy/flask-dance) - OAuth support via [OAuthLib](https://oauthlib.readthedocs.io/).
+- [Mockatoo](https://mockatoo.globalunderdog.com) - Hosted mock OAuth provider for testing Google, GitHub and six other sign-ins without registering provider apps. See the [Authlib example](https://github.com/mockatoo/examples/tree/main/authlib-flask).
 
 ### Cache
 
