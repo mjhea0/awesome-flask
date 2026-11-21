@@ -138,6 +138,7 @@
 #### Debugging
 
 - [Flask-DebugToolbar](https://flask-debugtoolbar.readthedocs.io) - Port of Django's debug toolbar for Flask.
+- [flask-lens](https://github.com/duhanguler/flask-lens) - Real-time developer observability console, SQL/N+1 profiler, EXPLAIN analyzer, cProfile SVG flamegraph, request replayer, and pytest query-budget guardrails for Flask.
 - [Flask-Profiler](https://github.com/muatik/flask-profiler) - Endpoint analyzer/profiler.
 
 #### Fixtures
