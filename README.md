@@ -45,6 +45,7 @@
 ### Admin
 
 - [Flask-Admin](https://github.com/pallets-eco/flask-admin) - Functional admin panel that provides a user interface for managing data based on your models.
+- [flask-deck](https://github.com/duhanguler/flask-deck) - Fail-closed enterprise admin panel and operations workbench for Flask and SQLAlchemy 2.0 with zero Node build, strict nonce CSP, RBAC, TOTP 2FA, OIDC SSO, keyset pagination, and audit logs.
 
 ### APIs
 
