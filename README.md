@@ -164,6 +164,7 @@
 
 - [Flask-Testing](https://pythonhosted.org/Flask-Testing/) - Unittest extensions.
 - [Pytest-Flask](https://github.com/pytest-dev/pytest-flask) - Pytest support for testing Flask applications.
+- [Keploy](https://github.com/keploy/keploy) - Generates API tests and mocks for Flask apps from real traffic, without code changes, and runs them in CI.
 
 ### Email
 
